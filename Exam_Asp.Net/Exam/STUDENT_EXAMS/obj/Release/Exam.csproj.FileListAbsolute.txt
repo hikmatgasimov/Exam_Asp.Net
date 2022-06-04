@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\AjaxControlToolkit.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\obj\Release\STUDENT_EXAMS.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\obj\Release\STUDENT_EXAMS.pdb

@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Exam.master.cs" Inherits="SlnExam.Exam.Exam" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 450px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server" style="width: 1000px; margin-left: 180px;">
+        <div style="height:100px; background-color:#4d83aa;"></div>
+        <div style="height:60px; background-color:#292a2f; text-align: center;" > 
+            <table class="auto-style1" style="margin-left: 250px; height: 100%;">
+                <tr>
+                    <td style="width: 150px">
+                        <asp:Button ID="btn_Lessons" runat="server" Height="100%" Text="Dərslər" Width="100%" PostBackUrl="~/PLessons.aspx" OnClick="btn_Lessons_Click" />
+                    </td>
+                    <td style="width: 150px">
+                        <asp:Button ID="btn_Students" runat="server" Height="100%" Text="Şagirdlər" Width="100%" PostBackUrl="~/PStudents.aspx" />
+                    </td>
+                    <td style="width: 150px">
+                        <asp:Button ID="btn_Exams" runat="server" Height="100%" Text="İmtahanlar" Width="100%" PostBackUrl="~/PExams.aspx" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+    <div style="border-width: 1px; border-style: solid; height:760px; background-color: #F0F0F0;">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <div style="height:40px; background-color:#292a2f" > </div>
+    </form>
+</body>
+</html>

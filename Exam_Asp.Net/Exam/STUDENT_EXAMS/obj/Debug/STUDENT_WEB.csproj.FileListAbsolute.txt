@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll.config
+c:\users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll
+c:\users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.pdb
+c:\users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\obj\Debug\STUDENT_WEB.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.dll
+c:\users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.pdb

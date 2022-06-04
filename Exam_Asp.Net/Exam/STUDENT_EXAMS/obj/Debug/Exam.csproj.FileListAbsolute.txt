@@ -1,0 +1,50 @@
+C:\Users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll.config
+C:\Users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll
+C:\Users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.pdb
+C:\Users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.dll
+C:\Users\user\documents\visual studio 2013\Projects\STUDENTS\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\STUDENT_EXAMS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STUDENTS\STUDENT_EXAMS\bin\AjaxControlToolkit.dll
+E:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll.config
+E:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll
+E:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.pdb
+E:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\bin\AjaxControlToolkit.dll
+E:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+E:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.dll
+E:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.pdb
+H:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll.config
+H:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll
+H:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.pdb
+H:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\bin\AjaxControlToolkit.dll
+H:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+H:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.dll
+H:\D\Imtahan\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.pdb
+D:\derslerC#__\ders62_02062019\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll.config
+D:\derslerC#__\ders62_02062019\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll
+D:\derslerC#__\ders62_02062019\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.pdb
+D:\derslerC#__\ders62_02062019\Imtahan\Exam\STUDENT_EXAMS\bin\AjaxControlToolkit.dll
+D:\derslerC#__\ders62_02062019\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+D:\derslerC#__\ders62_02062019\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.dll
+D:\derslerC#__\ders62_02062019\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.pdb
+D:\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+D:\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.dll
+D:\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll.config
+D:\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll
+D:\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.pdb
+D:\Imtahan\Exam\STUDENT_EXAMS\bin\AjaxControlToolkit.dll
+D:\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.pdb
+D:\Flash_kart\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll.config
+D:\Flash_kart\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.dll
+D:\Flash_kart\Imtahan\Exam\STUDENT_EXAMS\bin\STUDENT_EXAMS.pdb
+D:\Flash_kart\Imtahan\Exam\STUDENT_EXAMS\bin\AjaxControlToolkit.dll
+D:\Flash_kart\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\Exam.csprojAssemblyReference.cache
+D:\Flash_kart\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+D:\Flash_kart\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\Exam.csproj.CopyComplete
+D:\Flash_kart\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.dll
+D:\Flash_kart\Imtahan\Exam\STUDENT_EXAMS\obj\Debug\STUDENT_EXAMS.pdb
